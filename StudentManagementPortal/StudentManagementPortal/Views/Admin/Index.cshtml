@@ -1,0 +1,53 @@
+﻿@model IEnumerable<BasicDetails>
+@{ Layout = "_Layout"; ViewBag.Title = "All Details";}
+
+<h2>All Details</h2>
+<a asp-action="AddDetail" class="btn btn-sm btn-primary">Add Student</a>
+<a asp-action="Search" class="btn btn-sm btn-secondary">Search</a>
+
+<table class="table table-sm table-striped table-bordered m-2">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Date Of Birth</th>
+            <th>Gender</th>
+            <th>Address</th>
+            <th>Phone</th>
+            <th>Email</th>
+            <th>Course</th>
+            <th>Course Duration</th>
+            <th>Fee Status</th>
+            <th>Update</th>
+            <th>Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var r in Model)
+        {
+            <tr>
+                <td>@r.Id</td>
+                <td>@r.Name</td>
+                <td>@r.DateOfBirth</td>
+                <td>@r.Gender</td>
+                <td>@r.Address</td>
+                <td>@r.Phone</td>
+                <td>@r.Email</td>
+                <td>@r.Course</td>
+                <td>@r.CourseDuration</td>
+                <td>@r.FeeStatus</td>
+                <td>
+                    <a asp-action="UpdateDetail" asp-route-id="@r.Id">
+                        Update
+                    </a>
+                </td>
+                <td>
+                    <form  asp-action="DeleteDetail" method="post">
+                        <input type="hidden" value="@r.Id" name="detailId">
+                        <input type="submit" value="Delete">
+                    </form>                 
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

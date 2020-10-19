@@ -1,0 +1,50 @@
+﻿@model BasicDetails
+@{ Layout = "_Layout"; ViewBag.Title = "All Details";}
+
+<h2>Details</h2>
+<a asp-action="viewMarks" class="btn btn-sm btn-primary"  asp-route-id="@Model.Id">View Marks</a>
+<table class="table table-sm table-striped table-bordered m-2">
+
+    <tr>
+        <th>ID:</th>
+        <td>@Model.Id</td>
+    </tr>
+    <tr>
+        <th>Name:</th>
+        <td>@Model.Name</td>
+    </tr>
+    <tr>
+        <th>Date Of Birth:</th>
+        <td>@Model.DateOfBirth</td>
+    </tr>
+    <tr>
+        <th>Gender:</th>
+        <td>@Model.Gender</td>
+    </tr>
+    <tr>
+        <th>Address:</th>
+        <td>@Model.Address</td>
+    </tr>
+    <tr>
+        <th>Phone:</th>
+        <td>@Model.Phone</td>
+    </tr>
+    <tr>
+        <th>Email:</th>
+        <td>@Model.Email</td>
+    </tr>
+    <tr>
+        <th>Course:</th>
+        <td>@Model.Course</td>
+    </tr>
+    <tr>
+        <th>Course Duration:</th>
+        <td>@Model.CourseDuration</td>
+    </tr>
+    <tr>
+        <th>Fee Status:</th>
+        <td>@Model.FeeStatus</td>
+    </tr>
+
+    <a asp-action="UpdateDetail" class="btn btn-sm btn-primary" asp-route-id="@Model.Id">Update Details</a>
+</table>

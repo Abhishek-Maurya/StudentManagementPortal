@@ -1,0 +1,148 @@
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\StudentManagementAuthorization.exe
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\obj\Debug\netcoreapp3.1\StudentManagementAuthorization.csprojAssemblyReference.cache
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\obj\Debug\netcoreapp3.1\StudentManagementAuthorization.AssemblyInfoInputs.cache
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\obj\Debug\netcoreapp3.1\StudentManagementAuthorization.AssemblyInfo.cs
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\obj\Debug\netcoreapp3.1\StudentManagementAuthorization.RazorTargetAssemblyInfo.cache
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\obj\Debug\netcoreapp3.1\staticwebassets\StudentManagementAuthorization.StaticWebAssets.Manifest.cache
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\obj\Debug\netcoreapp3.1\staticwebassets\StudentManagementAuthorization.StaticWebAssets.xml
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\obj\Debug\netcoreapp3.1\StudentManagementAuthorization.csproj.CopyComplete
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\StudentManagementAuthorization.deps.json
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\StudentManagementAuthorization.runtimeconfig.json
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\StudentManagementAuthorization.runtimeconfig.dev.json
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\StudentManagementAuthorization.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\StudentManagementAuthorization.pdb
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\obj\Debug\netcoreapp3.1\StudentManagementAuthorization.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\obj\Debug\netcoreapp3.1\StudentManagementAuthorization.pdb
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\obj\Debug\netcoreapp3.1\StudentManagementAuthorization.genruntimeconfig.cache
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\obj\Debug\netcoreapp3.1\StudentManagementAuthorization.csproj.CoreCompileInputs.cache
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\obj\Debug\netcoreapp3.1\StudentManagementAuthorization.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\abhis\source\repos\StudentManagementAuthorization\StudentManagementAuthorization\obj\Debug\netcoreapp3.1\StudentManagementAuthorization.MvcApplicationPartsAssemblyInfo.cache
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\log4net.config
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\appsettings.json
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\StudentManagementAuthorization.exe
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\StudentManagementAuthorization.deps.json
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\StudentManagementAuthorization.runtimeconfig.json
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\StudentManagementAuthorization.runtimeconfig.dev.json
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\StudentManagementAuthorization.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\StudentManagementAuthorization.pdb
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Castle.Core.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\log4net.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Moq.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\obj\Debug\netcoreapp3.1\StudentManagementAuthorization.csprojAssemblyReference.cache
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\obj\Debug\netcoreapp3.1\StudentManagementAuthorization.AssemblyInfoInputs.cache
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\obj\Debug\netcoreapp3.1\StudentManagementAuthorization.AssemblyInfo.cs
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\obj\Debug\netcoreapp3.1\StudentManagementAuthorization.csproj.CoreCompileInputs.cache
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\obj\Debug\netcoreapp3.1\StudentManagementAuthorization.MvcApplicationPartsAssemblyInfo.cs
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\obj\Debug\netcoreapp3.1\StudentManagementAuthorization.MvcApplicationPartsAssemblyInfo.cache
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\obj\Debug\netcoreapp3.1\StudentManagementAuthorization.RazorTargetAssemblyInfo.cache
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\obj\Debug\netcoreapp3.1\StudentManagementAuthorization.csproj.CopyComplete
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\obj\Debug\netcoreapp3.1\staticwebassets\StudentManagementAuthorization.StaticWebAssets.Manifest.cache
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\obj\Debug\netcoreapp3.1\staticwebassets\StudentManagementAuthorization.StaticWebAssets.xml
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\obj\Debug\netcoreapp3.1\StudentManagementAuthorization.dll
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\obj\Debug\netcoreapp3.1\StudentManagementAuthorization.pdb
+E:\New folder\StudentManagementAuthorization\StudentManagementAuthorization\obj\Debug\netcoreapp3.1\StudentManagementAuthorization.genruntimeconfig.cache

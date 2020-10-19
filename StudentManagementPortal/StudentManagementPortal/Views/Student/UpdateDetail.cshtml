@@ -1,0 +1,85 @@
+﻿@model BasicDetails
+@{ Layout = "_Layout"; ViewBag.Title = "Update a Detail";}
+
+<h2>Update a Detail <a asp-action="Index" asp-route-id="@Model.Id" class="btn btn-sm btn-secondary">Back</a></h2>
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Id"></label>
+        <input class="form-control" asp-for="Id" readonly />
+    </div>
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input class="form-control" asp-for="Name" readonly/>
+    </div>
+    <div class="form-group">
+        <label asp-for="DateOfBirth"></label>
+        <input class="form-control" asp-for="DateOfBirth"readonly />
+    </div>
+    <div class="form-group">
+        <label asp-for="Gender"></label>
+        <input class="form-control" asp-for="Gender" readonly/>
+    </div>
+    <div class="form-group">
+        <label asp-for="Phone"></label>
+        <input class="form-control" asp-for="Phone" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Address"></label>
+        <input class="form-control" asp-for="Address" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Email"></label>
+        <input class="form-control" asp-for="Email" readonly/>
+    </div>
+    <div class="form-group">
+        <label asp-for="Course"></label>
+        <input class="form-control" asp-for="Course" readonly/>
+    </div>
+    <div class="form-group">
+        <label asp-for="CourseDuration"></label>
+        <input class="form-control" asp-for="CourseDuration" readonly/>
+    </div>
+    <div class="form-group">
+        <label asp-for="FeeStatus"></label>
+        <input class="form-control" asp-for="FeeStatus" readonly/>
+    </div>
+    <div class="text-center panel-body">
+        <button type="submit" class="btn btn-sm btn-primary">Update</button>
+    </div>
+</form>
+
+@if (ViewBag.Result == "Success")
+{
+   /* <h2>Reservation</h2>
+    <table class="table table-sm table-striped table-bordered m-2">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Date Of Birth</th>
+                <th>Gender</th>
+                <th>Address</th>
+                <th>Phone</th>
+                <th>Email</th>
+                <th>Course</th>
+                <th>Course Duration</th>
+                <th>Fee Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>@Model.Id</td>
+                <td>@Model.Name</td>
+                <td>@Model.DateOfBirth</td>
+                <td>@Model.Gender</td>
+                <td>@Model.Address</td>
+                <td>@Model.Phone</td>
+                <td>@Model.Email</td>
+                <td>@Model.Course</td>
+                <td>@Model.CourseDuration</td>
+                <td>@Model.FeeStatus</td>
+            </tr>
+        </tbody>
+    </table>*/
+}
+<p>@ViewBag.result</p>

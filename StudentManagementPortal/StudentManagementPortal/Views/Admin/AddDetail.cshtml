@@ -1,0 +1,83 @@
+﻿@model BasicDetails
+@{ Layout = "_Layout"; ViewBag.Title = "Add a Students";}
+
+<h2>Add a Student <a asp-action="Index" class="btn btn-sm btn-secondary">Back</a></h2>
+<form asp-action="AddDetail" method="post">
+    <div class="form-group">
+        <label for="Name">Name:</label>
+        <input class="form-control" name="Name" />
+    </div>
+    <div class="form-group">
+        <label for="DoB">Start DateOfBirth(yyyy-mm-dd):</label>
+        <input class="form-control" name="DateOfBirth" />
+    </div>
+    <div class="form-group">
+        <label for="Gender">Gender:</label>
+        <input class="form-control" name="Gender" />
+    </div>
+    <div class="form-group">
+        <label for="Phone">Phone:</label>
+        <input class="form-control" name="Phone" />
+    </div>
+    <div class="form-group">
+        <label for="Address">Address:</label>
+        <input class="form-control" name="Address" />
+    </div>
+    <div class="form-group">
+        <label for="Email">Email:</label>
+        <input class="form-control" name="Email" />
+    </div>
+    <div class="form-group">
+        <label for="Course">Course:</label>
+        <input class="form-control" name="Course" />
+    </div>
+    <div class="form-group">
+        <label for="CourseDuration">Course Duration:</label>
+        <input class="form-control" name="CourseDuration" />
+        <div class="form-group">
+            <label for="FeeStatus">Fee Status:</label>
+            <input class="form-control" name="FeeStatus" />
+        </div>
+        <div class="text-center panel-body">
+            <button type="submit" class="btn btn-sm btn-primary">Add</button>
+        </div>
+</form>
+
+@if (Model != null)
+{
+
+    /*   <h2>Detail</h2>
+       <table class="table table-sm table-striped table-bordered m-2">
+           <thead>
+               <tr>
+                   <th>ID</th>
+                   <th>Name</th>
+                   <th>Date Of Birth</th>
+                   <th>Gender</th>
+                   <th>Address</th>
+                   <th>Phone</th>
+                   <th>Email</th>
+                   <th>Course</th>
+                   <th>Course Duration</th>
+                   <th>Fee Status</th>
+               </tr>
+           </thead>
+           <tbody>
+               <tr>
+                   <td>@Model.Id</td>
+                   <td>@Model.Name</td>
+                   <td>@Model.DateOfBirth</td>
+                   <td>@Model.Gender</td>
+                   <td>@Model.Address</td>
+                   <td>@Model.Phone</td>
+                   <td>@Model.Email</td>
+                   <td>@Model.Course</td>
+                   <td>@Model.CourseDuration</td>
+                   <td>@Model.FeeStatus</td>
+               </tr>
+           </tbody>
+       </table>
+    */
+
+}
+<p>@ViewBag.result</p>

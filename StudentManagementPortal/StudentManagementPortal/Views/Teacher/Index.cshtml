@@ -1,0 +1,51 @@
+﻿@model IEnumerable<MarksDetails>
+@{ Layout = "_Layout"; ViewBag.Title = "All Details";}
+
+<h2>All Details</h2>
+<a asp-action="Search" class="btn btn-sm btn-secondary">Search</a>
+
+<table class="table table-sm table-striped table-bordered m-2">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Current Year</th>
+            <th>Sem 1 Marks</th>
+            <th>Sem 2 Marks</th>
+            <th>Sem 3 Marks</th>
+            <th>Sem 4 Marks</th>
+            <th>Sem 5 Marks</th>
+            <th>Sem 6 Marks</th>
+            <th>Sem 7 Marks</th>
+            <th>Sem 8 Marks</th>
+            <th>Total Max Marks</th>
+            <th>Total Obtained Marks</th>
+            <th>Percentage</th>
+            <th>Update</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var r in Model)
+        {
+        <tr>
+            <td>@r.Id</td>
+            <td>@r.CurrentYear</td>
+            <td>@r.Sem1</td>
+            <td>@r.Sem2</td>
+            <td>@r.Sem3</td>
+            <td>@r.Sem4</td>
+            <td>@r.Sem5</td>
+            <td>@r.Sem6</td>
+            <td>@r.Sem7</td>
+            <td>@r.Sem8</td>
+            <td>@r.TotalMaxMarks</td>
+            <td>@r.TotalObtainedMarks</td>
+            <td>@r.Percentage</td>
+            <td>
+                <a asp-action="UpdateMarks" asp-route-id="@r.Id">
+                    Update
+                </a>
+            </td>
+         </tr>
+     }
+    </tbody>
+</table>

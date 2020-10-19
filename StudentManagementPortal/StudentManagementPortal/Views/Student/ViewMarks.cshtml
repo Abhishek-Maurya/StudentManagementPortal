@@ -1,0 +1,59 @@
+﻿@model MarksDetails
+@{ Layout = "_Layout"; ViewBag.Title = "View Marks";}
+
+<h2>Marks Details <a asp-action="Index" asp-route-id="@Model.Id" class="btn btn-sm btn-secondary">Back</a></h2>
+<table class="table table-sm table-striped table-bordered m-2">
+
+    <tr>
+        <th>ID:</th>
+        <td>@Model.Id</td>
+    </tr>
+    <tr>
+        <th>Current Year:</th>
+        <td>@Model.CurrentYear</td>
+    </tr>
+    <tr>
+        <th>Sem 1 Marks:</th>
+        <td>@Model.Sem1</td>
+    </tr>
+    <tr>
+        <th>Sem 2 Marks:</th>
+        <td>@Model.Sem2</td>
+    </tr>
+    <tr>
+        <th>Sem 3 Marks:</th>
+        <td>@Model.Sem3</td>
+    </tr>
+    <tr>
+        <th>Sem 4 Marks:</th>
+        <td>@Model.Sem4</td>
+    </tr>
+    <tr>
+        <th>Sem 5 Marks:</th>
+        <td>@Model.Sem5</td>
+    </tr>
+    <tr>
+        <th>Sem 6 Marks:</th>
+        <td>@Model.Sem6</td>
+    </tr>
+    <tr>
+        <th>Sem 7 Marks:</th>
+        <td>@Model.Sem7</td>
+    </tr>
+    <tr>
+        <th>Sem 8 Marks:</th>
+        <td>@Model.Sem8</td>
+    </tr>
+    <tr>
+        <th>Total Max Marks:</th>
+        <td>@Model.TotalMaxMarks</td>
+    </tr>
+    <tr>
+        <th>Total Obtained Marks:</th>
+        <td>@Model.TotalObtainedMarks</td>
+    </tr>
+    <tr>
+        <th>Percentage:</th>
+        <td>@Model.Percentage</td>
+    </tr>
+</table>
